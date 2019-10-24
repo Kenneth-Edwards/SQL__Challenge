@@ -75,6 +75,9 @@ target/
 # pyenv
 .python-version
 
+# my config file
+config.py
+
 # celery beat schedule file
 celerybeat-schedule
 
